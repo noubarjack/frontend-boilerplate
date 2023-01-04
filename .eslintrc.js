@@ -52,13 +52,6 @@ module.exports = {
       'prefer-const': 'error',
       // Imports
       'import/prefer-default-export': 'off',
-      'sort-imports': [
-         'error',
-         {
-            ignoreCase: true,
-            ignoreDeclarationSort: true,
-         },
-      ],
       'no-unused-expressions': 'off',
       'no-prototype-builtins': 'off',
       // REACT
